@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.1.44](https://github.com/mckinsey/agents-at-scale-ark/compare/v0.1.43...v0.1.44) (2025-11-20)
+
+
+### Features
+
+* A2A task tracking and query observability improvements ([#316](https://github.com/mckinsey/agents-at-scale-ark/issues/316)) ([464500a](https://github.com/mckinsey/agents-at-scale-ark/commit/464500ad2715da53e3b489ba2eb3f229dcaa536f))
+* add session-id support to ark query command [ARKQB-490] ([#455](https://github.com/mckinsey/agents-at-scale-ark/issues/455)) ([db5dbe7](https://github.com/mckinsey/agents-at-scale-ark/commit/db5dbe7ab907636cd1485fbb9ca08124704081a7))
+* cluster memory install from cli ([#464](https://github.com/mckinsey/agents-at-scale-ark/issues/464)) ([afdea03](https://github.com/mckinsey/agents-at-scale-ark/commit/afdea034d1d4c17a16f7be1ec8ad4af830bc884a))
+* condition standards ([#452](https://github.com/mckinsey/agents-at-scale-ark/issues/452)) ([36ecc6c](https://github.com/mckinsey/agents-at-scale-ark/commit/36ecc6cadaac7cf9de5513f90694007aeb0aca47))
+* release cluster-memory ([#456](https://github.com/mckinsey/agents-at-scale-ark/issues/456)) ([7427fcd](https://github.com/mckinsey/agents-at-scale-ark/commit/7427fcda510f5fd8fb92261d2dcb5c120b775e55))
+* Xray blocking scan report ([#444](https://github.com/mckinsey/agents-at-scale-ark/issues/444)) ([08fb3f5](https://github.com/mckinsey/agents-at-scale-ark/commit/08fb3f5895fdc5b71a1b15025d263f6e57f9e174))
+
+
+### Bug Fixes
+
+* Adding dependent trigger for deploy workflows ([#450](https://github.com/mckinsey/agents-at-scale-ark/issues/450)) ([d03be6a](https://github.com/mckinsey/agents-at-scale-ark/commit/d03be6a10f73f8adc1dbc127b895446edd091930))
+* quickstart errors on cicd ([#462](https://github.com/mckinsey/agents-at-scale-ark/issues/462)) ([d7025a5](https://github.com/mckinsey/agents-at-scale-ark/commit/d7025a5afa5505df71a17283c95ba368eb606683))
+* team trace span boundaries to orrectly show runtimes of turns ([#473](https://github.com/mckinsey/agents-at-scale-ark/issues/473)) ([baa7288](https://github.com/mckinsey/agents-at-scale-ark/commit/baa7288e34109aaa1158c913f69ae8f0c3f5924e))
+
 ## [0.1.43](https://github.com/mckinsey/agents-at-scale-ark/compare/v0.1.42...v0.1.43) (2025-11-13)
 
 
